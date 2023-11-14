@@ -1,2 +1,2 @@
 class DevelopmentConfig():
-    DEBUG = True
+    DEBUG_MODE = True
